@@ -1,0 +1,27 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="304"
+    height="304"
+    viewBox="0 0 135 135"
+    zoomAndPan="magnify"
+    preserveAspectRatio="xMidYMid meet"
+    version="1.0"
+>
+    <defs id="SvgjsDefs2035"></defs>
+    <g
+        id="SvgjsG2037"
+        featurekey="monogramFeature-0"
+        transform="matrix(1.8108150581197555,0,0,1.8108150581197555,25,-2)"
+        fill="#145bcd">
+        <text
+            x="15"
+            y="60"
+            font-family="Arial, sans-serif"
+            font-size="50" 
+            fill="#145bcd"
+        >
+            N
+        </text>
+    </g>
+</svg>
